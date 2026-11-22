@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyan0BLNty4g19Su2k0qtcOM14cxniiztDwGentg095P0cZNu3gbvj6oP9&s=10" width="300" height="250" border="0" alt=""></center>
+  
+  <center>
+	<a href="Home.html">Home</a>&nbsp;&nbsp;
+	<a href="Aboutus.html">About us</a>&nbsp;&nbsp;
+	<a href="Menu.html">Menu</a>&nbsp;&nbsp;
+	<a href="Gallery.html">Gallery</a>&nbsp;&nbsp;
+	<a href="Chefs.html">Our  Chefs</a>&nbsp;&nbsp;
+	<a href="Reservation.html">Reservations</a>&nbsp;&nbsp;
+	<a href="Recipes.html">Recipes</a>&nbsp;&nbsp;
+	<a href="Contactus.html">Contact us</a>
+  </center>
+  
+  <hr>
+ 
+  
+  <center><h1>Reserve a Table</h1></center>
+  <center>
+	<form method="post" action="">
+		<label>
+		<table>
+		<tr>
+			<td> Full Name -</td>
+			<td> <input type="text" required> </td>
+		</tr>
+		<tr>
+			<td>Email-</td>
+			<td> <input type="email" required> </td>
+		</tr>
+		<tr>
+			<td>Phone -</td>
+			<td> <input type="tel"></td>
+		</tr>
+		<tr>
+			<td>Date of Visit -</td>
+			<td><input type="date" required></td>
+		</tr>
+		<tr>
+			<td>Time- </td>
+			<td><input type="time"> </td>
+		</tr>
+		<tr>
+			<td>Number of Guests - </td>
+			<td><select 1-10> 
+			<option value="1">1 </option>
+			<option value="2"> 2</option>
+			<option value="3">3 </option>
+			<option value="4">4 </option>
+			<option value="5"> 5</option>
+			<option value="6"> 6</option>
+			<option value="7"> 7</option>
+			<option value="8">8 </option>
+			<option value="9"> 9</option>
+			<option value="10">10</option>
+			</select>
+			</td>
+		</tr>
+		<tr>
+			<td>Special Requests-</td>
+			<td><textarea name="" rows="" cols=""></textarea></td>
+		</tr>
+		<tr>
+			<td><input type="submit"></td>
+			
+		</tr>
+		</table>
+		</label>
+	</form>
+  </center>
+  
+  
+  <hr><center><strong>
+  &copy; Spice Garden. All rights is reserved.</strong></center>
+  
+ </body>
+</html>
+
+
+

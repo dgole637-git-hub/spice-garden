@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  
+ <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyan0BLNty4g19Su2k0qtcOM14cxniiztDwGentg095P0cZNu3gbvj6oP9&s=10" width="300" height="250" border="0" alt=""></center>
+  
+  <center>
+	<a href="Home.html">Home</a>&nbsp;&nbsp;
+	<a href="Aboutus.html">About us</a>&nbsp;&nbsp;
+	<a href="Menu.html">Menu</a>&nbsp;&nbsp;
+	<a href="Gallery.html">Gallery</a>&nbsp;&nbsp;
+	<a href="Chefs.html">Our  Chefs</a>&nbsp;&nbsp;
+	<a href="Reservation.html">Reservations</a>&nbsp;&nbsp;
+	<a href="Recipes.html">Recipes</a>&nbsp;&nbsp;
+	<a href="Contactus.html">Contact us</a>
+  </center>
+  
+  <hr>
+  
+  
+  <center><h1>Contact Us</h1></center>
+  <h4><font color="#ff3300"><center>Get In Touch</center></font></h4>
+  <center><h2>We Would Love to Hear From You</h2></center>
+
+<br>
+<br>
+  <center>
+          <h3>Visit or Reach Out</h3>
+          <address>
+            <strong>Spice Garden Restaurant</strong><br>
+            42 Heritage Lane, Colaba<br>
+            Mumbai, Maharashtra 400001<br><br>
+            Phone: <a href="tel:+912222845678">+91 22 2284 5678</a><br>
+            Email: <a href="mailto:enquiries@spicegarden.com">enquiries@spicegarden.com</a>
+          </address>
+   </center>
+
+<br>
+          <h3>Opening Hours</h3>
+          <ul>
+            <li><strong>Monday – Thursday:</strong> 12:00 PM – 10:30 PM</li>
+            <li><strong>Friday – Saturday:</strong> 12:00 PM – 11:30 PM</li>
+            <li><strong>Sunday:</strong> 12:30 PM – 10:30 PM</li>
+          </ul>
+
+  
+  <br>
+<center>
+<form method="post" action="Thankyou.html">
+	<table>
+<tr>
+	<td>Name</td>
+	<td><input type="text" name="" pattern="[A-Z,a-z]+"></td>
+</tr>
+<tr>
+	<td>E-Mail</td>
+	<td><input type="email" name=""></td>
+</tr>
+<tr>
+	<td>Message</td>
+	<td><textarea name="" rows="" cols=""></textarea></td>
+</tr>
+<tr>
+	<td><input type="submit"></td>
+	<td><input type="reset"></td>
+</tr>
+</table>
+</form>
+</center>
+  <br>
+
+  <center><h2>Find Us on the Map</h2></center>
+ <center>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7547.4671216720835!2d72.822965!3d18.943184!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d1e25ee8439d%3A0x5acd924f2726ad2b!2sMarine%20Dr!5e0!3m2!1sen!2sin!4v1795097548369!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+ </center>
+  
+  
+  
+  <hr><center><strong>
+  &copy; Spice Garden. All rights is reserved.</strong></center>
+  
+ </body>
+</html>

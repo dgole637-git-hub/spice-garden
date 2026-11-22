@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  
+  
+  <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyan0BLNty4g19Su2k0qtcOM14cxniiztDwGentg095P0cZNu3gbvj6oP9&s=10" width="300" height="250" border="0" alt=""></center>
+  
+  <center>
+	<a href="Home.html">Home</a>&nbsp;&nbsp;
+	<a href="Aboutus.html">About us</a>&nbsp;&nbsp;
+	<a href="Menu.html">Menu</a>&nbsp;&nbsp;
+	<a href="Gallery.html">Gallery</a>&nbsp;&nbsp;
+	<a href="Chefs.html">Our  Chefs</a>&nbsp;&nbsp;
+	<a href="Reservation.html">Reservations</a>&nbsp;&nbsp;
+	<a href="Recipes.html">Recipes</a>&nbsp;&nbsp;
+	<a href="Contactus.html">Contact us</a>
+  </center>
+  
+  <hr>
+  <center><h1>Meet Our Chefs</h1></center>
+  <center><blockquote>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUMsUn_L-HBLXw1u-3kW_8SUVitnizVqwyiVMcs38rVQ&s=10" alt="Portrait of Chef Rajesh Kapoor" width="120" height="120">
+  <p>"Great Indian cooking is about honoring time-tested spices while letting every ingredient speak clearly on the plate."</p>
+  <footer>— Chef Rajesh Kapoor, Head Chef &amp; Co-Founder</footer>
+</blockquote>
+</center>
+
+  <div>
+    <img src="https://chefsonam.com/Images/sonam-smiling.jpg" alt="Portrait of Chef Sonam" width="120" height="120">
+    <h3>Chef Sonam</h3>
+    <p>Executive Chef — The Spice Garden</p>
+    <p>With 15+ years of kitchen leadership at The Spice Garden, Chef Sonam specializes in bold Indo-Chinese and pan-Asian flavors crafted with balanced heat and aroma.</p>
+  </div>
+
+  <div>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb50Ma5BOSYB5iBYTn-5ZyQ3Kv0NrfvATvFQc_1uHLCQ&s=10" alt="Portrait of Chef Tika" width="120" height="120">
+    <h3>Chef Tika</h3>
+    <p>Lead Culinary Instructor &amp; Spice Guide</p>
+    <p>At Ella Spice Garden Cooking School in Sri Lanka, Chef Tika leads hands-on cooking classes and ingredient tours, sharing island spice pairings and traditional techniques.</p>
+  </div>
+  
+  
+  
+  
+  <hr><center><strong>
+  &copy; Spice Garden. All rights is reserved.</strong></center>
+  
+ </body>
+</html>

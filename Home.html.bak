@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  
+  <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyan0BLNty4g19Su2k0qtcOM14cxniiztDwGentg095P0cZNu3gbvj6oP9&s=10" width="300" height="250" border="0" alt=""></center>
+  
+  <center>
+	<a href="Home.html">Home</a>&nbsp;&nbsp;
+	<a href="Aboutus.html">About us</a>&nbsp;&nbsp;
+	<a href="Menu.html">Menu</a>&nbsp;&nbsp;
+	<a href="Gallery.html">Gallery</a>&nbsp;&nbsp;
+	<a href="Chefs.html">Our  Chefs</a>&nbsp;&nbsp;
+	<a href="Reservation.html">Reservations</a>&nbsp;&nbsp;
+	<a href="Recipes.html">Recipes</a>&nbsp;&nbsp;
+	<a href="Contactus.html">Contact us</a>
+  </center>
+  
+  <hr>
+  <center><h1>SPICE GARDEN</h1></center>
+  <center><em><p>Freshly Spiced, Always Enticed. </p></em></center>
+  
+  <br>
+  <br>
+  
+  <font size="" color="#ff3300"><center>Our Story</center></font>
+<font size="" color="#669933"><h2><center>A Legacy of Flavor
+</center></h2></font>
+<center>Born from a family's love of authentic Indian cooking, Spice Garden has been delighting guests for over a decade.</center>
+  
+  <br>
+  <br>
+  <br>
+  <br>
+  <center>
+  <table>
+  <tr>
+	<center><td><a href="Menu.html">
+  <button type="button"><b>View Menu</b></button>
+</a></td></center>
+	<center><td><a href="Reservation.html">
+  <button type="button"><b>Reserve Table</b></button>
+</a></td></center>
+  </tr>
+  <tr>
+	<td><img src="https://st2.depositphotos.com/4024659/44175/v/1600/depositphotos_441756324-stock-illustration-luxury-restaurant-menu-logo-template.jpg" width="300" height="200" border="1" alt=""></td>
+	<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx1LtPUMacbETVymvLnpWhnfiTfNJfF7DAbVpmN6r2XWWcOY19ecsd2OY&s=10" width="300" height="200" border="1" alt=""></td>
+  </tr>
+  </table></center>
+  
+  
+  <br>
+  <br>
+  
+  <center><h2>Our Specialties</h2></center>
+  
+	  <center>
+	<table>
+	<tr>
+		<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUW4aOk6WjJwv0NDQzqyz3EOfaPsAykxDpVuiU_ImQxw&s=10" width="300" height="200" border="0" alt=""></td>
+		
+	<td><pre><center> <h3><mark>Fresh Ingredients</mark></h3></center>
+	We partner with local farms for the freshest produce, delivered daily to our kitchen.</pre></td>
+	</tr>
+	
+	<tr>
+		<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToIY4BQ6ZZhcnxpHawVaX-3jq0EAXOUS5P1y3KFZkpDM4VSxQjMjRLLkCE&s=10" width="300" height="200" border="0" alt=""></td>
+		<td><pre><center><h3><mark>Family Recipes</mark></h3></center>
+	Watch our chefs craft your meal in our stunning open kitchen — transparency you can taste.</pre></td>
+	</tr>
+	
+	<tr>
+		<td><img src="https://framerusercontent.com/images/VnQLf21Vbjw2Ni76YtyfeJFaZNc.webp?width=1536&height=1024" width="300" height="200" border="0" alt=""></td>
+		<td><pre><center><h3><mark>Award Winning</mark></h3></center>
+	Recognized by Food & Wine Magazine as one of India's top 20 modern Indian restaurants.</pre></td>
+		
+	</tr>
+	</table>
+	</center>
+   
+
+
+	
+  <center><h2>WElCOME</h2></center>
+  <center><table>
+  <tr>
+	<td>Welcome to Spice Garden, where timeless family recipes meet the vibrant warmth of freshly ground spices. Every dish is prepared daily using hand-selected ingredients and authentic culinary traditions, bringing you rich aromas, unforgettable flavors, and heartfelt hospitality in every bite. Whether you are gathering with loved ones for a celebratory feast or craving a comforting meal crafted with passion, we invite you to relax, savor the moment, and experience the true essence of fine dining with us.</td>
+  </tr>
+  </table></center>
+  
+  
+  <br>
+  <br>
+  <hr><center><strong>
+  &copy; Spice Garden. All rights is reserved.</strong></center>
+ </body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+    <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyan0BLNty4g19Su2k0qtcOM14cxniiztDwGentg095P0cZNu3gbvj6oP9&s=10" width="300" height="250" border="0" alt=""></center>
+    <center><h1>Thank you</h1></center>
+	<p>Your table booking request at <strong>Spice Garden</strong> has been received. We look forward to welcoming you and serving you an unforgettable meal.</p>
+            <p>Need to modify your party size or timing? Call us at <a href="tel:+912222845678">+91 22 2284 5678</a>.</p>
+            <br>
+            <a href="Menu.html"><strong>Explore Our Menu</strong></a>&nbsp;&nbsp;/&nbsp;&nbsp;
+            <a href="Home.html"><strong>Return to Home</strong></a>
+ </body>
+</html>
